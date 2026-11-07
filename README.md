@@ -1,6 +1,4 @@
 # Educational-Papers
 
-Credit:
-
-Astronomy Camp 1 KKU:
-@phu.phudis
+Description:
+Astronomy Camp 1 KKU: ข้อสอบคัดเลือกนักเรียนเพื่อเข้ารับการอบรมค่ายที่ 2 (ท้ายค่าย 1) ภาคทฤษฎี วิชาดาราศาสตร์ (ม.ปลาย) ปีการศึกษา 2568 ศูนย์ สอวน. มหาวิทยาลัยขอนแก่น
